@@ -62,7 +62,7 @@
         Produk dan Servis
       </h1>
       <p class="text-center px-20 font-light text-gray-500 py-5">
-        Selain Berdagang, kami juga menyediakan platform Pendidikan dan Merchandise dan cabutan Bertuah!
+        Selain Berdagang, kami juga menyediakan platform Pendidikan,Merchandise dan cabutan Bertuah!
       </p>
       <div class="grid grid-cols-2 px-40 gap-5">
         <div id="left-item-columns">
